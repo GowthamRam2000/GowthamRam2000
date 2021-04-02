@@ -18,9 +18,10 @@ I'm currently a student pursuing my bachelors
 
 NOW
 
-✨ Crafted last solution for traffic control using satellite images;
-🇵🇹 Planing the "Tuga-Co-Op";
-🍑 What about this?
+✨ Crafted last: solution for traffic control using satellite images;
+   Created solution to measure volume of oil barrels from satellite images
+   developed and upgraded an ERP solution for a Hardware based manufacturing plant 
+
 BIO
 
 🏢 I'm currently working as an intern in zSpaze
