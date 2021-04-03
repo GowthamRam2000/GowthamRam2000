@@ -26,7 +26,7 @@ BIO
 
 🏢 I'm currently working as an intern in zSpaze
 ⚙️ I use daily: .python, .js, .html, .css, .java, .c++
-🌍 I'm mostly active within the Laravel Community
+🌍 I'm mostly active within the c++/python Community
 
 🌱 Learning all about Open Source
 💬 Ping me about design, branding, development, design thinking
