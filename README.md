@@ -14,21 +14,10 @@ y'know. Pretty good.
 <br/>
 Hi there 👋
 
-I'm currently a student pursuing my bachelors  
+I'm currently a student pursuing my Masters  
 
-NOW
-
-✨ Crafted last: solution for traffic control using satellite images;
-   Created solution to measure volume of oil barrels from satellite images
-   developed and upgraded an ERP solution for a Hardware based manufacturing plant 
-
-BIO
-
-🏢 I'm currently working as an intern in zSpaze
-⚙️ I use daily: .python, .js, .html, .css, .java, .c++
-🌍 I'm mostly active within the c++/python Community
 
 🌱 Learning all about Open Source
 💬 Ping me about design, branding, development, design thinking
 📫 Reach me: twitter.com/gowthamm161
-⚡️ Fun fact: I'm a huge fan of the percy jackson series
+⚡️ Fun fact: I'm a huge fan of the Percy jackson series
